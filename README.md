@@ -10,12 +10,4 @@ In this project, the rule is following:
 -  The game ends if there are at least 10 spaces with a building level of 4 or at least 10 spaces with a building level of 0 in the game board.
 -  The human player wins if there are at least 10 spaces with a building level of 4 where the AI player wins if there are at least 10 spaces with a building level of 0 when the game ends.
 
-After the player chooses a starting point, AI chooses a space adjacent to the player's starting point as its starting point. Notice that choosing starting points won’t change any building level in the game board. For example, Here the game states if the human player chooses (1,2) as the starting point, then AI chooses (1,3) as its  starting point. 
-
-    1 2 3 4 5 6
-1   2 P A 2 2 2
-2   2 2 2 2 2 2
-3   2 2 2 2 2 2
-4   2 2 2 2 2 2
-5   2 2 2 2 2 2
-6   2 2 2 2 2 2
+After the player chooses a starting point, AI chooses a space adjacent to the player's starting point as its starting point. Notice that choosing starting points won’t change any building level in the game board. 
