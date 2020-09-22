@@ -12,10 +12,10 @@ In this project, the rule is following:
 
 After the player chooses a starting point, AI chooses a space adjacent to the player's starting point as its starting point. Notice that choosing starting points won’t change any building level in the game board. For example, Here the game states if the human player chooses (1,2) as the starting point, then AI chooses (1,3) as its  starting point. 
 
-   1 2 3 4 5 6
-1  2 P A 2 2 2
-2  2 2 2 2 2 2
-3  2 2 2 2 2 2
-4  2 2 2 2 2 2
-5  2 2 2 2 2 2
-6  2 2 2 2 2 2
+    1 2 3 4 5 6
+1   2 P A 2 2 2
+2   2 2 2 2 2 2
+3   2 2 2 2 2 2
+4   2 2 2 2 2 2
+5   2 2 2 2 2 2
+6   2 2 2 2 2 2
